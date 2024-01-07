@@ -1,2 +1,2 @@
-# Notes for elastic search beginer 
+# Notes for Elasticsearch learner 
 
